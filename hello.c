@@ -1,3 +1,7 @@
+/*
+ *  Basic hello progeam
+ */
+
 #include <stdio.h>
 
 int main()
